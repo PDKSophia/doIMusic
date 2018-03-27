@@ -15,7 +15,6 @@
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/list.jpg)
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/singer.jpg)
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/search.jpg)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/search1.jpg)
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/search2.jpg)
 
 
