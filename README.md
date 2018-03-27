@@ -10,7 +10,7 @@
 
 
 ## 页面显示
-![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main.png)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/home.jpg)
 
 
 ## 使用
