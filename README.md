@@ -9,9 +9,9 @@
  + ...
 
 
-## 目录结构
+## 页面显示
+![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main.png)
 
-初始的目录结构如下：
 
 ## 使用
  1 ：git clone 
