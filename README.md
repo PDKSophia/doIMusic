@@ -10,14 +10,14 @@
 
 
 ## 页面显示
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/home.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/login.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/album.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/list.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/singer.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/search.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/search1.jpg =100x100)
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/search2.jpg =100x100)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/home.jpg){:height="200px" width="100px"}
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/login.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/album.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/list.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/singer.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/search.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/search1.jpg)
+![image](https://github.com/PDKSophia/P_Music/raw/master/image/search2.jpg)
 
 
 ## 使用
