@@ -10,7 +10,6 @@
 
 
 ## 页面显示
-![image](https://github.com/PDKSophia/P_Music/raw/master/image/home.jpg){:height="200px" width="100px"}
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/login.jpg)
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/album.jpg)
 ![image](https://github.com/PDKSophia/P_Music/raw/master/image/list.jpg)
