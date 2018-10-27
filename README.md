@@ -32,20 +32,22 @@
 
 【刚看vue 没多久写的代码， 代码架构可能不太友好~】
 
-演示地址 ： www.pengdaokuan.cn/music
-
-APK 下载 : www.pengdaokuan.cn/music/app.apk
-
 API接口是在github上找的
 
 免费开源使用。
 
 版权所有Copyright © 2018 by PDK (http://www.pengdaokuan.cn/music)
 
-All rights reserved。
-
 ## 相关链接
+
+演示地址 ： www.pengdaokuan.cn/music
+
+APK 下载 : www.pengdaokuan.cn/music/app.apk
 
 博客 : http://blog.pengdaokuan.cn:4001
 
 掘金 : https://juejin.im/user/594ca8a35188250d892f4139
+
+erek-resume: http://github.com/PDKSophia/erek-resume
+
+erek-editor: http://github.com/PDKSophia/erek-editor
