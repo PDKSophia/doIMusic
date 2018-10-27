@@ -1,42 +1,51 @@
-# 仿豆瓣
+# 嘟嘟播放器
 
-> A Vue.js and thinkphp5 project
+## 技术栈
++ vue-cli
++ vuex
++ vue-ydui
++ axios
++ vue-router
++ ...
++ ...
 
-## Build Setup
+## 功能需求
+- [ ] 推荐歌单
+- [ ] 歌手查询
+- [ ] 播放歌曲
+- [ ] 搜索歌曲
+- [ ] ...
 
-``` bash
-# 下载
-git clone https://github.com/PDKSophia/sophia
+## 演示地址
+[戳这里](http://www.pengdaokuan.cn/music)
 
-# 安装依赖
-npm install
+## 使用
+ 1 ：git clone 
 
-# 监听端口 1997
-npm run dev
+ 2 ：进入到vue 下，npm install （默认安装了node）
 
+ 3 ：进入到vue 下，npm run dev
 
-## 目录结构
+ （端口是1111，可以在vue/config/index.js 修改）
+ 
+## 其他信息
 
-~~~
-sophia  WEB部署目录（或者子目录）
-├─vue           		
-│  ├─build             	build
-│  ├─config       	config         
-│  ├─dist        	打包文件
-│  ├─node_modules       node_modules	
-│  ├─src            
-│  │  ├─assets          图片，图标等文件
-│  │  ├─components      组件
-│  │  ├─router          路由
-│  │  ├─store          	store
-│  │  ├─app.vue         app.vue
-│  │  └─main.js         main.js
-│  │
-│  ├─static 		MP3等文件
-│  ├─package.json       依赖
-│  ├─index.html         index.html
-│  │
-│  └
-└
+【刚看vue 没多久写的代码， 代码架构可能不太友好~】
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+演示地址 ： www.pengdaokuan.cn/music
+
+APK 下载 : www.pengdaokuan.cn/music/app.apk
+
+API接口是在github上找的
+
+免费开源使用。
+
+版权所有Copyright © 2018 by PDK (http://www.pengdaokuan.cn/music)
+
+All rights reserved。
+
+## 相关链接
+
+博客 : http://blog.pengdaokuan.cn:4001
+
+掘金 : https://juejin.im/user/594ca8a35188250d892f4139
