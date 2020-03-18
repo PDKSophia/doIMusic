@@ -1,23 +1,26 @@
 # 嘟嘟播放器
 
+![](https://img.shields.io/badge/Vue-2.x-green.svg)
+![](https://img.shields.io/badge/PHP-5.x-orange.svg)
+![](https://img.shields.io/badge/Date-2017_12-red.svg)
+
+> 📢 重要说明 : 此项目是博主大三上学期，2017年12月的一个课程设计，当时直接用 vue-cli 进行开发，有些丑陋和乱，已不更新和开发。但不舍得删~
+
 ## 技术栈
 + vue-cli
 + vuex
 + vue-ydui
 + axios
 + vue-router
++ php
 + ...
 + ...
 
 ## 功能需求
-- [ ] 推荐歌单
-- [ ] 歌手查询
-- [ ] 播放歌曲
-- [ ] 搜索歌曲
-- [ ] ...
-
-## 演示地址
-[戳这里](http://www.pengdaokuan.cn/music)
+- ✅ 推荐歌单
+- ✅ 歌手查询
+- ✅ 播放歌曲
+- ✅ 搜索歌曲
 
 ## 使用
  1 ：git clone 
@@ -28,25 +31,10 @@
 
  （端口是1111，可以在vue/config/index.js 修改）
  
-## 其他信息
-
-【刚看vue 没多久写的代码， 代码架构可能不太友好~】
-
-API接口是在github上找的
-
-免费开源使用。
-
-版权所有Copyright © 2018 by PDK (http://www.pengdaokuan.cn/music)
 
 ## 相关链接
 
-演示地址 ： www.pengdaokuan.cn/music
-
-APK 下载 : www.pengdaokuan.cn/music/app.apk
-
-博客 : http://blog.pengdaokuan.cn:4001
-
-掘金 : https://juejin.im/user/594ca8a35188250d892f4139
+juejin : https://juejin.im/user/594ca8a35188250d892f4139
 
 erek-resume: http://github.com/PDKSophia/erek-resume
 
